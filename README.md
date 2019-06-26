@@ -1,5 +1,8 @@
 # MixItUpRails
 
+[![Gem Version](https://badge.fury.io/rb/mixitup-rails.svg)](https://badge.fury.io/rb/mixitup-rails)
+[![Build Status](https://travis-ci.org/bodrovis/mixitup-rails.svg?branch=master)](https://travis-ci.org/bodrovis/mixitup-rails)
+
 A ruby gem that uses the Rails asset pipeline to include the [MixItUp JavaScript library by Kunkka labs](https://www.kunkalabs.com/mixitup).
 
 ## Installation
