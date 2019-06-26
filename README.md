@@ -1,6 +1,6 @@
 # MixItUpRails
 
-A ruby gem that uses the Rails asset pipeline to include the [MixItUp JavaScript library by Kunkka labs](https://www.kunkalabs.com/mixitup.
+A ruby gem that uses the Rails asset pipeline to include the [MixItUp JavaScript library by Kunkka labs](https://www.kunkalabs.com/mixitup).
 
 ## Installation
 
